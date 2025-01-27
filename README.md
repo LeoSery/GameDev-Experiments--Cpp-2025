@@ -12,7 +12,7 @@ A lightweight C++ thread pool implementation for managing concurrent task execut
 ### Shader-GLSL 
 A small GLSL shader that generates two energy balls spinning around each other and blending when they intersect.
 
-![Shader GLSL Demo](./Shader-GLSH/ReadmeContent/TechnicalDemoGifs/Demo.gif)
+![Shader GLSL Demo](./Shader-GLSL/ReadmeContent/TechnicalDemoGifs/Demo.gif)
 
 ## Repository Structure
 
