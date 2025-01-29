@@ -2,7 +2,7 @@
 
 A lightweight C++ thread pool implementation for managing concurrent task execution.
 
-![Terminal Demo](./ReadmeContent/GameScreenshots/Demo.jpg)
+![Demo](./ReadmeContent/DemoScreenshots/Demo.jpg)
 
 ## Overview
 Thread pool system that automatically manages worker threads and distributes tasks. Built with modern C++ features, it offers a simple interface for adding and executing jobs concurrently.

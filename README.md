@@ -4,15 +4,20 @@ This repository gathers various small-scale game development experiments and tes
 
 ## Projects
 
-### WorkerPool
-A lightweight C++ thread pool implementation for managing concurrent task execution.
-
-![WorkerPool Terminal Demo](./WorkerPool/ReadmeContent/GameScreenshots/Demo.jpg)
-
-### Shader-GLSL 
+### [Shader-GLSL](./Shader-GLSL) 
 A small GLSL shader that generates two energy balls spinning around each other and blending when they intersect.
 
 ![Shader GLSL Demo](./Shader-GLSL/ReadmeContent/TechnicalDemoGifs/Demo.gif)
+
+## [DataOriented](./DataOriented/)
+Comparison between Object-Oriented and Data-Oriented design approaches using employee data processing as a case study.
+
+![DataOriented Demo](./DataOriented/ReadmeContent/DemoScreenshots/StatsDemo.jpg)
+
+### [WorkerPool](./WorkerPool/)
+A lightweight C++ thread pool implementation for managing concurrent task execution.
+
+![WorkerPool Demo](./WorkerPool/ReadmeContent/DemoScreenshots/Demo.jpg)
 
 ## Repository Structure
 

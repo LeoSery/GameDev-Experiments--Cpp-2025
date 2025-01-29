@@ -2,7 +2,7 @@
 
 A small shader in GLSL that generates two balls of energy that spin around each other and blend when they cross.
 
-![Terminal Demo](./ReadmeContent/TechnicalDemoGifs/Demo.gif)
+![Demo](./ReadmeContent/TechnicalDemoGifs/Demo.gif)
 
 ## Overview
 This shader combines two animated point light sources:

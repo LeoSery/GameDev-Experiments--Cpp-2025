@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+
+# Visual Studio files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+
+# Build directories
+DataOrie.28b337aa/
